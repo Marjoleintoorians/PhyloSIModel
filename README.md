@@ -16,3 +16,7 @@ the receiving host and the reseroir to which the pathogen has been adapted. Code
 Here we apply the plant and pests data from the Gilbert et al. (2012) paper entitled "Evolutionary tools for phytosanitary risk analysis: phylogenetic signal as a predictor of host range of plant pests and pathogens".
 Here we assume a scenario 1 model, as there is no information on host reservoirs for these pests.
 This code generates Figure 4 of the manuscript.
+
+
+### Publication
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14641
